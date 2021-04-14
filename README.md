@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pablocoder99
-- 👀 I’m interested in learn more about programming in general
-- 🌱 I’m currently learning Java and MYSQL
-- 💞️ I’m looking to collaborate on any programming project to learn more and more
-- 📫 How to reach me pablof9610@gmail.com / sportextromer@gmail.com
+- Olá! Meu nome é Pablo Ferreira
+- Interessado em aprender sobre programação em geral
+- Estou buscando melhorar meus conhecimentos atuais em Java e MySQL
+- Procuro colaborar em projetos para o compartilhamento e aprendizado de informações seja mútuo
+- Contatos: pablof9610@gmail.com / sportextromer@gmail.com
 
 <!---
 Pablocoder99/Pablocoder99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
