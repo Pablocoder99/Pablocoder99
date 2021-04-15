@@ -1,7 +1,7 @@
 - Olá! Meu nome é Pablo Ferreira
 - Interessado em aprender sobre programação em geral
 - Estou buscando melhorar meus conhecimentos atuais em Java e MySQL
-- Procuro colaborar em projetos para o compartilhamento e aprendizado de informações seja mútuo
+- Procuro colaborar em projetos onde o compartilhamento e aprendizado de informações seja mútuo
 - Contatos: pablof9610@gmail.com / sportextromer@gmail.com
 
 <!---
